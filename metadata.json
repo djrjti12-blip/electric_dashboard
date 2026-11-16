@@ -1,0 +1,6 @@
+{
+  "name": "오늘의 전기 시세",
+  "description": "전력시장 입문자를 위한 시간대별 SMP(계통한계가격) 대시보드 및 AI 시세 해설",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
